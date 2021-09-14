@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.author       = { "AccuraScan" => "connect@accurascan.com" }
   spec.platform     = :ios, "12.0"
   spec.static_framework = true
-  spec.source       = { :git => "https://github.com/accurascan/AccuraKYC-Hybrid-iOS.git", :tag => "2.2.4" }
+  spec.source       = { :git => "https://github.com/accurascan/AccuraKYC-MRZ-Hybrid.git", :tag => "2.2.4" }
   spec.preserve_paths = 'AccuraKYC.framework'
   spec.vendored_frameworks = 'AccuraKYC.framework'
   spec.requires_arc = true
