@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "AccuraKYC-MRZ-Hybrid-sim"
+  spec.name         = "AccuraKYC-MRZ-Hybrid-Sim"
   spec.version      = "2.2.5"
   spec.summary      = "Accura KYC is used for Optical character recognition."
   spec.description  = "Accura Scan mobile technology provides you with the ability to effectively use the device camera and quickly onboard a customer. Seamless Customer On-Boarding by scanning a Passport or ID card with 3D selfie technology. Verify and Authenticate your customer remotely in realtime. It can work offline or can be stored on cloud or use it your way using our SDK / API’s."
