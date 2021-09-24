@@ -1,0 +1,6 @@
+framework module AccuraKYC {
+  umbrella header "AccuraKYC.h"
+
+  export *
+  module * { export * }
+}
