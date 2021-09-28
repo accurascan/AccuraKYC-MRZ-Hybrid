@@ -68,8 +68,8 @@ NS_ASSUME_NONNULL_BEGIN
 //-(void)setRecordingTimerTextColor:(NSString*)textColor;
 //-(void)setRecordingMessageTextSize:(CGFloat)textSize;
 //-(void)setRecordingMessageTextColor:(NSString*)textColor;
--(void)evaluateServerTrustWIthSSLPinning:(bool)isServerTrust;
-
+//-(void)evaluateServerTrustWIthSSLPinning:(bool)isServerTrust;
+-(void)setFeedBackProcessingMessage:(NSString *)feedBackProcessingMessage;
 
 -(void)setFeedBackLookRightMessage:(NSString*)feedBackLookRightMessage;
 -(void) setLowLightThreshHold:(int)lowLightThreshHold;
@@ -77,6 +77,8 @@ NS_ASSUME_NONNULL_BEGIN
 -(void) setFeedBackFaceInsideOvalMessage:(NSString*)FaceInsideOvalMessage;
 -(void)GIFImageNameForRightMoveFaceAnimation:(NSString*)rightMoveGIFName;
 -(void)GIFImageNameForLeftMoveFaceAnimation:(NSString*)leftMoveGIFName;
+-(void)isShowLogo:(bool)isShowLogo;
+-(void)setLogoImage:(NSString*)LogoImageName;
 //-(void)enableOralVerification:(bool)isOralVerification;
 
 @end
