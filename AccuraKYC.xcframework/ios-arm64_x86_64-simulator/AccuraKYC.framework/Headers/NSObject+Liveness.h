@@ -79,7 +79,9 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)GIFImageNameForLeftMoveFaceAnimation:(NSString*)leftMoveGIFName;
 -(void)isShowLogo:(bool)isShowLogo;
 -(void)setLogoImage:(NSString*)LogoImageName;
-//-(void)enableOralVerification:(bool)isOralVerification;
+-(void)enableOralVerification:(bool)isOralVerification;
+-(void)setButtonStartRecordingIcon:(NSString*)imageName;
+-(void)setCodeTextColor:(NSString*)codeTextColor;
 
 @end
 
