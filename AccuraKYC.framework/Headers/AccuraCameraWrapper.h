@@ -10,6 +10,8 @@
 #import <UIKit/UIKit.h>
 #import "VideoCameraWrapperDelegate.h"
 #import "SDKModels.h"
+#import <Speech/Speech.h>
+#import <Speech/SFSpeechRecognizer.h>
 
 #import "ResultModel.h"
 
@@ -60,6 +62,11 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 
 
 @property (nonatomic, strong) id<VideoCameraWrapperDelegate> delegate;
+@property (nonatomic) SFSpeechRecognizer *speechRecognizer;
+@property (nonatomic) SFSpeechAudioBufferRecognitionRequest *recognitionRequest;
+@property (nonatomic) SFSpeechRecognitionTask *recognitionTask;
+@property (nonatomic) AVAudioEngine *audioEngine;
+@property (nonatomic) AVAudioInputNode *inputNode;
 
 
 //@property NSMutableDictionary *ocrDataSet;
@@ -71,7 +78,7 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 
 -(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andLabelMsg:(UILabel*)l andurl:(NSString*)url andMRZDocType:(int)MRZDocumentType;
 
--(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andfeedBackVideoRecordingMessage:(NSString*)feedBackVideoRecordingMessage andcheckLivess:(bool)checkLivenss labelLvienessProcess:(UILabel*)lbllivenessProcess recordingMessage:(NSString*)recordingMessage labelRecordingMSG:(UILabel*)labelRecordingMSG feedbackFMFailMessage:(NSString *)feedBackFMFailMessage andfeedBackLookLeftMessage:(NSString *)feedBackLookLeftMessage andfeedBackLookRightMessage:(NSString *)feedBackLookRightMessage andFaceInsideOvalMessage:(NSString *)FaceInsideOvalMessage;
+-(id)initWithDelegate:(UIViewController<VideoCameraWrapperDelegate>*)delegate andImageView:(UIImageView *)iv andMsgLabel:(UILabel*)l andfeedBackframeMessage:(NSString*)feedBackframeMessage andfeedBackAwayMessage:(NSString*)feedBackAwayMessage andfeedBackOpenEyesMessage:(NSString*)feedBackOpenEyesMessage andfeedBackCloserMessage:(NSString*)feedBackCloserMessage andfeedBackCenterMessage:(NSString*)feedBackCenterMessage andfeedBackMultipleFaceMessage:(NSString*)feedBackMultipleFaceMessage andfeedBackFaceSteady:(NSString*)feedBackFaceSteady andfeedBackLowLightMessage:(NSString*)feedBackLowLightMessage andfeedBackBlurFaceMessage:(NSString*)feedBackBlurFaceMessage andfeedBackGlareFaceMessage:(NSString*)feedBackGlareFaceMessage andfeedBackVideoRecordingMessage:(NSString*)feedBackVideoRecordingMessage andcheckLivess:(bool)checkLivenss labelLvienessProcess:(UILabel*)lbllivenessProcess recordingMessage:(NSString*)recordingMessage labelRecordingMSG:(UILabel*)labelRecordingMSG feedbackFMFailMessage:(NSString *)feedBackFMFailMessage andfeedBackLookLeftMessage:(NSString *)feedBackLookLeftMessage andfeedBackLookRightMessage:(NSString *)feedBackLookRightMessage andFaceInsideOvalMessage:(NSString *)FaceInsideOvalMessage andfeedBackOralInfoMessage:(NSString*)feedBackOralInfoMessage andfeedBackProcessingMessage:(NSString*)feedBackProcessingMessage;
 
 -(void)startCamera;
 -(void)stopCamera;
@@ -102,6 +109,8 @@ typedef NS_ENUM(NSUInteger, BarcodeType)
 //-(void)setMinFrameForValidate:(int)minFrame;
 -(NSString *)getKYCSDKVersion;
 -(void)setMRZCountryCodeList:(NSString*)countryCodeList;
+-(void)startRecording;
+-(void)stopRecording1;
 
 
 

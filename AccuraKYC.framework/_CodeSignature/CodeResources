@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		CYfQueehrLd1oiwpJXJQAwExej4=
+		RhvOq8b6sBXXgEa4hEw/AG5zZD8=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
-		2UCq+5XRQJXFPQQEWXsdnDc+6Kw=
+		8vVGbtQjtoE4zrTZSnOwGJ8jwmw=
 		</data>
 		<key>Headers/AccuraKYC.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		5GuPlUTzOeDJo2MnpRx4d52BvoE=
+		zgAx5wmdx6ty1BZBX8TkjDMb/n4=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Headers/NSObject+Constant.h</key>
 		<data>
-		ACed1E0Vc7knu0HAbuqzTQM3ysU=
+		JxSDGMjfnuKwQxm7cBMrDu9rkTA=
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
-		/XkfnBg1cJam5foZprHu3UDaqZo=
+		WyY384UTP1HSy5Hhtkqkb6Z0j40=
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		bzxyQn2zvaEFpKz6+GMZrrAAAYg=
+		ZHXZEBOSQP8lrA4mhEJf6x5pHtM=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		+DV8xRX66zet9HcQmVVcIrPn03g=
+		Q5cOTY6OI6yrBfXoBvD5xLzsf70=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -106,15 +106,15 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		lCXTIWMecQNqHFekQqRS2k0tqKg=
+		Y2FivNfKY04AuTGo8gPnA3OBO2A=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		t1lQ7COq9KT0vGCJiE/ceqE/kzk=
+		FohwJG6qg1WiISxLc5a4q2+y9vs=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		Nw/KRMwN4d+Cqixmbxr6nN3v+QU=
+		FOpHoCueCWUY5oWV2pr1MSOTvq4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -211,14 +211,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n6p19GswY+Ov30X2wlpjCBrOIKmBzOMXW2pBzQvfkDo=
+			IOa9KbmgPdvfP6SoMYDZ8Aekb7cWzUUoBiHkemoyKcs=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s6VC72bVucSvpQIFK1sEDkjbeudtdxNxzZyUpg8Nkqc=
+			zi8l9hUMpbL5QkFAiR0ZtkSk72C+sBy9n/tsHFgA8c8=
 			</data>
 		</dict>
 		<key>Headers/AccuraKYC.h</key>
@@ -281,7 +281,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7YB9uc7qrx2vBm6PjLrINbulQpf3UIawn9PliFriZSs=
+			pFd/HCwc8WhQWHkftPgvO4sI2o/BN3tAr8ZCKvBziBs=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -295,21 +295,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KD3USEVjPBwr04B9xIx2G6D731Oy8Z5hUxjBK2apY9w=
+			MwedI4Lxntvp+QuMymLwrc3tTskixMxmS3gJ3xSGenM=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Facematch.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t179a7Snk9PoS0V3kH0HGrmRL58CatshUFFAYcWywKY=
+			+jBGMXChx53oRLPTJVo2gCUKP6Q4WaWn7VzeFCsK8q0=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Liveness.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VUXmicdmERnHwe0EvpeXG1IlnjxNhJKk0KYmnJcozxI=
+			fsf931h14y2JhZ+cR6ZHwJlUStaO31ezmVQkFFhrqLA=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -358,7 +358,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/CZYVg4QPlOMog8Rm5jbY4E9I3GmO3mSIlLqYD3Cgr8=
+			7QGg3ne2AaLNh2H1IbjhAsJNfLG9+ikfEmNiMWVRTJk=
 			</data>
 		</dict>
 		<key>LICENSE.txt</key>
@@ -379,21 +379,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uWM0QyU6o8dCIgR/Yl9mPO9pk6VSaU6lZYgagkpC5zg=
+			9VArrOMwrBA12VEjL0WxDCTKjtZF90LEfb3MvTK7D4o=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EgBRb79WG5nAN79R1aefsaRZpRHDxCOWUFPRUf0H1eM=
+			UaOJrdXmOMtgl3LUUqNa1MgoTSI61G3mFBOQl+3BRRg=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HE6tYH74kCxcfVrBQbvlzBh+Sp1bEg6EVrDtTBZzC9A=
+			8BovUXZGIinwJAVKlgBClviUp3oR4x0hJOAGYBHH/8Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -24,7 +24,7 @@ typedef NS_ENUM(NSUInteger, RecogType) {
 };
 typedef NS_ENUM(int, LivenessType)
 {
-    DEFAULT = 0, LOOK_LEFT = 1, LOOK_RIGHT = 2, ORAL_VERIFICATIO = 3, APPROVED = 4
+    DEFAULT = 0, LOOK_LEFT = 1, LOOK_RIGHT = 2, ORAL_VERIFICATION = 3, APPROVED = 4
 };
 @protocol VideoCameraWrapperDelegate <NSObject>
 @optional
@@ -45,8 +45,9 @@ typedef NS_ENUM(int, LivenessType)
 //-(void)recognizeSucceedBarcode:(NSString*)message backImage:(UIImage*)BackSideImage frontImage:(UIImage*)FrontImage faceImage:(UIImage*)FaceImage;
 -(void)reco_titleMessage:(int)messageCode;
 //-(void)isBothSideAvailable:(bool)isBothAvailable;
--(void)showAnimatedImage:(LivenessType)livenessType;
+//-(void)showAnimatedImage:(LivenessType)livenessType;
 -(void)didChangedLivenessType:(LivenessType)faceDirection;
+-(void)getRandomNumber:(NSString*)randomNumber;
 
 
 @end
