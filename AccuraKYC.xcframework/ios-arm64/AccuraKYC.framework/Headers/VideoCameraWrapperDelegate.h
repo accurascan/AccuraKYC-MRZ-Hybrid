@@ -26,6 +26,12 @@ typedef NS_ENUM(int, LivenessType)
 {
     DEFAULT = 0, LOOK_LEFT = 1, LOOK_RIGHT = 2, ORAL_VERIFICATION = 3, APPROVED = 4
 };
+typedef NS_ENUM(int, ContentType)
+{
+    form_data = 0,
+    raw_data = 1
+};
+
 @protocol VideoCameraWrapperDelegate <NSObject>
 @optional
 //-(void)recognizeSucceedBarcode:(NSString*)message;

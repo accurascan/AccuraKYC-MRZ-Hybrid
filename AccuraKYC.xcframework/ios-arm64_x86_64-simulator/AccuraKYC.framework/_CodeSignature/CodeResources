@@ -62,11 +62,11 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		ZHXZEBOSQP8lrA4mhEJf6x5pHtM=
+		ht8OB0gTFKVkjMBBjiLg5jC/4CI=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		Yb7FsDfO34KkccEMzNrzXQdzTII=
+		fSM+tdwdWwgmRjWRaGdc2Akh7Iw=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		Q5cOTY6OI6yrBfXoBvD5xLzsf70=
+		jWeuWTInxyISSxlCvwBbwpWUXNQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -102,19 +102,19 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		ZczLTQMZq306KsAz4GJXSF+KvcU=
+		kwCZC70n7AQtFvr4/Vfsbpl9EWU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		bXCRKQop6xgP6uaQb3X7brsCRIo=
+		0pzuG8sVlezya/YcT+Ph2mOnn+k=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		yflsLMgLanHrH6asyN8JduoukIQ=
+		6IY4URdL9OS4PM/Kd+or4+yk6cc=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		m3shTxpTMWrm9i+YP4OLKQJXweg=
+		rIrGFmXwW4zYnaaCpyQZJJp3F1s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -309,14 +309,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fsf931h14y2JhZ+cR6ZHwJlUStaO31ezmVQkFFhrqLA=
+			mNrf6HA6nBi2+QkpwpFuE+7J41wmyhshccU0AmIeu+Y=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MHOVByXLdJ9xD/KPFaYCTSwBh4US++y5O34AKLEZJp8=
+			iJ0D1vpc3Mpn1Ti2qrF24XvgN8fuOSMcakvPq6+MoIA=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -358,7 +358,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7QGg3ne2AaLNh2H1IbjhAsJNfLG9+ikfEmNiMWVRTJk=
+			XW4zJ1KJ5ARsF201ePIOwNbuMMInjl2eWQaDf8uvXFs=
 			</data>
 		</dict>
 		<key>LICENSE.txt</key>
@@ -372,28 +372,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
+			1Hn1OBOYkz1QQQXNpJQR7sZzVMgIdVmzfY+Kpg2XBVs=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lxboat9zbsYpGq6zhEEE0e2lu9ZsXI7wKr8z2ON7jbU=
+			kipAm/XsBIC52X3e6udKeKIxYPQ/p73A1uwVFGBEii4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			67TarjnJQFhhF6SO1Z0MnSjlQ23d6nYapX/VZt7S7+8=
+			az0K7tS336Xwsqn/DrI/yqtq0qNKCrEMUsqN0V5Afo8=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HzTonOaUsXqLqzy9uEb4ee+VAnYbWIAAzKLE3cRrQYI=
+			jJgQQOiWnkiR3cnWzU7+NCTOt40POB4cvX6bRSyDB5I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

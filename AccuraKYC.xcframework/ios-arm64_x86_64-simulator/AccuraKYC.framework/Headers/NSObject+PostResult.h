@@ -8,11 +8,15 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import "VideoCameraWrapperDelegate.h"
 
 
 
 
 @interface PostResult: NSObject
+{
+    ContentType contentType;
+}
 
 typedef void (^SuccessBlock)(NSMutableDictionary* Response);
 typedef void (^FailureBlock)(NSError* error);

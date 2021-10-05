@@ -82,6 +82,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)enableOralVerification:(bool)isOralVerification;
 -(void)setButtonStartRecordingIcon:(NSString*)imageName;
 -(void)setCodeTextColor:(NSString*)codeTextColor;
+-(void)setContentType:(ContentType)contentType;
 
 @end
 
