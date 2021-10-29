@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		ht8OB0gTFKVkjMBBjiLg5jC/4CI=
+		3d9TBIEJ/NkGA5ZbsBFGlifQim4=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -106,15 +106,15 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		0pzuG8sVlezya/YcT+Ph2mOnn+k=
+		Era4L2Zr/uzpQLmiDciiHw6KbUY=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		6IY4URdL9OS4PM/Kd+or4+yk6cc=
+		/KKK8X1z1+QgB8HZOfosmlBeIeg=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		rIrGFmXwW4zYnaaCpyQZJJp3F1s=
+		/TUKbAv4SF/58bVWeZFitJWYtH0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -175,6 +175,10 @@
 		<key>accura_liveness_face.gif</key>
 		<data>
 		x6YzFO5mq/nRXX7usL796xjJwEk=
+		</data>
+		<key>approved_sign.gif</key>
+		<data>
+		qP254C52OQQWaGVqhJw8W5iSG+U=
 		</data>
 		<key>fdata.xml</key>
 		<data>
@@ -309,7 +313,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mNrf6HA6nBi2+QkpwpFuE+7J41wmyhshccU0AmIeu+Y=
+			7DulnQN0SCGo1JARnWWX73Nyx6XAPCBnaNHVfVToDnQ=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -379,21 +383,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kipAm/XsBIC52X3e6udKeKIxYPQ/p73A1uwVFGBEii4=
+			vlnOKPmFABsUvYty1l4l0LYF21+j7Qkxw/tK1WloHxM=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			az0K7tS336Xwsqn/DrI/yqtq0qNKCrEMUsqN0V5Afo8=
+			J7dBE6cUPsElXYo716xTRjLSjYJZ016uFm9J6jr46qE=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jJgQQOiWnkiR3cnWzU7+NCTOt40POB4cvX6bRSyDB5I=
+			AHIA03VHLZSWFHD+5dlKqiAiPB5hE+HzPHUe5gzo8lE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -499,6 +503,13 @@
 			<key>hash2</key>
 			<data>
 			5wwdXLdcHsGI3hnR4cS1RsnRb35Bdb3sNbrcEDDwJEw=
+			</data>
+		</dict>
+		<key>approved_sign.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dJbYCWKrKeDHtBqGU6VdENPdJNmdr8r6N/Mn3mnb/wE=
 			</data>
 		</dict>
 		<key>fdata.xml</key>
