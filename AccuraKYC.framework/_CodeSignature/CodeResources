@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		ht8OB0gTFKVkjMBBjiLg5jC/4CI=
+		3d9TBIEJ/NkGA5ZbsBFGlifQim4=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -102,19 +102,19 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		ZczLTQMZq306KsAz4GJXSF+KvcU=
+		kwCZC70n7AQtFvr4/Vfsbpl9EWU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		GONTeJvnoSXwrt5hLBf5Kto3g/M=
+		vVSlw1roQjJSVymbQJn0MKE7qtw=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		ZwDTUygxA1Q5Rw2csNF5wRrQmiA=
+		41Id98mQThkWcNAfPuvZmY7P+rs=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		14vAYL+ocXvBlvKO7QoC84AK9oo=
+		207GPyiRmicG5ttY4+OI4uuP6bg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -175,6 +175,10 @@
 		<key>accura_liveness_face.gif</key>
 		<data>
 		x6YzFO5mq/nRXX7usL796xjJwEk=
+		</data>
+		<key>approved_sign.gif</key>
+		<data>
+		qP254C52OQQWaGVqhJw8W5iSG+U=
 		</data>
 		<key>fdata.xml</key>
 		<data>
@@ -309,7 +313,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mNrf6HA6nBi2+QkpwpFuE+7J41wmyhshccU0AmIeu+Y=
+			7DulnQN0SCGo1JARnWWX73Nyx6XAPCBnaNHVfVToDnQ=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -372,28 +376,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
+			1Hn1OBOYkz1QQQXNpJQR7sZzVMgIdVmzfY+Kpg2XBVs=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FGAeLNba9SF8l8Q6aTYqv5rt4UB6jYlIb72hfAJyNJE=
+			/a4JWdsxI8GGwimv5PpuVpI/kZ7SWbRwlvU0vUVihjY=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nCXOaMECiWrOUhn0SN+FrBL7Vp2swvHmcncXxiP7gXI=
+			uMql9hZ3K4dtHQ/WYO2dYEx+KPMtrTWTxnYsUJCjAuw=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aHYXIFfWCpsncoOaPX2m8rhE7SoBu8EiD4EbQkJa2Hs=
+			5PySX0zWpJrZMOTQKUuFcnMcTmF7fup1VG4gwLrbpr0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -499,6 +503,13 @@
 			<key>hash2</key>
 			<data>
 			5wwdXLdcHsGI3hnR4cS1RsnRb35Bdb3sNbrcEDDwJEw=
+			</data>
+		</dict>
+		<key>approved_sign.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dJbYCWKrKeDHtBqGU6VdENPdJNmdr8r6N/Mn3mnb/wE=
 			</data>
 		</dict>
 		<key>fdata.xml</key>
